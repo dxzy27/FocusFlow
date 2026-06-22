@@ -39,6 +39,20 @@ npx http-server .
 
 - In VS Code: install Live Server, open `index.html`, then **Open with Live Server**.
 
+## How to Use FocusFlow
+
+1. Open the app in your browser.
+2. Use the mode buttons to select:
+   - `Pomodoro` for a focused work session.
+   - `Short Break` for a quick rest.
+   - `Long Break` for a longer recovery pause.
+3. Press `START` to begin the selected timer and `STOP` to pause it.
+4. In the music panel, choose a genre and use `prev`, `play/pause`, and `next` to control tracks.
+5. Add tasks with a text description, estimated Pomodoro count, and optional notes.
+6. Mark tasks complete with the checkbox or edit/delete them using the task controls.
+7. Use the settings menu to customize timer durations, alarm sound, alarm volume, alarm repeat count, and ticking sound.
+8. Download your activity log using the `Log` button to keep a record of completed focus sessions.
+
 ## Development
 
 - Edit `index.html`, `script.js`, and `styles.css` to modify the UI and behavior.
