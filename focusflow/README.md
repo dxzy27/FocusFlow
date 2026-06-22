@@ -50,8 +50,9 @@ npx http-server .
 4. In the music panel, choose a genre and use `prev`, `play/pause`, and `next` to control tracks.
 5. Add tasks with a text description, estimated Pomodoro count, and optional notes.
 6. Mark tasks complete with the checkbox or edit/delete them using the task controls.
-7. Use the settings menu to customize timer durations, alarm sound, alarm volume, alarm repeat count, and ticking sound.
-8. Download your activity log using the `Log` button to keep a record of completed focus sessions.
+7. Open the mini games panel to play quick breaks with games like Dino, Tetris, Pac-Man, and Snake.
+8. Use the settings menu to customize timer durations, alarm sound, alarm volume, alarm repeat count, and ticking sound.
+9. Download your activity log using the `Log` button to keep a record of completed focus sessions.
 
 ## Development
 
